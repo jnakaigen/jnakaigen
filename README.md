@@ -3,15 +3,9 @@
   <h3>Computer Science Engineer | AI/ML & Full-Stack Developer | Open Source Contributor</h3>
   <p>Building intelligent systems that scale, from training Deep Learning models to architecting robust MERN and FastAPI backends.</p>
 
-  <a href="https://github.com/jnakaigen">
-    <img src="https://github-readme-stats.vercel.app/api?username=jnakaigen&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Janaki's GitHub stats" />
-  </a>
+
   <a href="https://github.com/jnakaigen">
     <img src="https://streak-stats.demolab.com/?user=jnakaigen&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br>
-  <a href="https://github.com/jnakaigen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnakaigen&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
   </a>
 </div>
 
