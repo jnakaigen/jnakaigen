@@ -77,7 +77,6 @@ I am a Computer Science Engineering student at Marian Engineering College (CGPA:
 
 ## 🏆 Achievements & Community
 
-* **Hackathons & Ideathons:** Active participant in the Litmus7 Ideathon 2026 and the GitGrade Hackathon.
 * **Continuous Learner:** Consistently upskilling in algorithmic problem-solving to tackle complex technical assessments and interviews.
 
 ---
