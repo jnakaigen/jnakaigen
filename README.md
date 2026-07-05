@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student at Marian Engineering College (CGPA: 8.34, Class of 2026) with a deep passion for bridging complex AI architectures with functional, user-facing applications. Whether I am crunching data, engineering backends, or actively engaging with the open-source community, I thrive on solving real-world problems.
+I am an AI Architect with a deep passion for bridging complex AI architectures with functional, user-facing applications. Whether I am crunching data, engineering backends, or actively engaging with the open-source community, I thrive on solving real-world problems.
 
 - 🔭 **Currently Working On:** Developing "The Dynamic Text Analysis Platform" during my Infosys Internship.
 - 🌱 **Currently Learning:** Advanced DSA patterns for technical problem solving.
